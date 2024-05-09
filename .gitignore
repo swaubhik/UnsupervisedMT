@@ -5,7 +5,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+NMT/data
+en-brx
+NMT/en-gb-data
+dumped
 # C extensions
 *.so
 
@@ -118,3 +121,4 @@ Session.vim
 tags
 
 # End of https://www.gitignore.io/api/vim,python
+log.json
